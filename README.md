@@ -1,4 +1,4 @@
-# Discord-Webhook-
+# Discord-Webhook-Spammer
 
 Simple Discord Webhook Spammer/ Webhook Deleter.
 Make sure to add the required data in the Config.json file before using it.
